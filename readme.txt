@@ -1,2 +1,2 @@
 git is version manage system.
-git tracks changes.
+git tracks changes of files..
